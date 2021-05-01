@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawabz
-- 👀 I’m interested in HTML, CSS, PHP, JS, Python, Java...
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in HTML, CSS, JavaScript, Python...
+- 🌱 I’m currently learning CSS & JS
 - 💞️ I’m looking to collaborate on loads of stuffs :)
 - 📫 How to reach me @WabzDa
 
