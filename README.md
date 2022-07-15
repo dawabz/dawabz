@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, Python...
 - 🌱 I’m currently learning CSS & JS
 - 💞️ I’m looking to collaborate on loads of stuffs :)
-- 📫 How to reach me @WabzDa
+- 📫 How to reach me @theCodeBunny
 
 <!---
 dawabz/dawabz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
